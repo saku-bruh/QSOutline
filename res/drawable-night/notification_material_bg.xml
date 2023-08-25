@@ -7,7 +7,7 @@
             <stroke android:width="1.3499756dip" android:color="@drawable/color_accent_alpha" />
             <corners android:radius="?android:dialogCornerRadius" />
             <padding android:left="10.0dip" android:right="10.0dip" />
-            <solid android:color="?android:^attr-private/defaultQueryHint" />
+            <solid android:color="?androidprv:attr/defaultQueryHint" />
         </shape>
     </item>
 </ripple>

@@ -5,7 +5,7 @@
     <item android:id="@id/slider_foreground" android:height="@dimen/slider_progress_height">
         <shape>
             <size android:height="@dimen/slider_progress_height" />
-            <stroke android:width="1.3499756dip" android:color="?android:colorAccent" />
+            <stroke android:width="1.3499756dip" android:color="?android:attr/colorAccent" />
             <solid android:color="@drawable/color_accent_alpha" />
             <corners android:radius="@dimen/rounded_slider_corner_radius" />
         </shape>
