@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="dimen" name="brightness_mirror_height" id="0x7f010000" />
+    <public type="dimen" name="custom_rounded_slider_height" id="0x7f010001" />
+    <public type="dimen" name="qs_corner_radius" id="0x7f010002" />
+    <public type="dimen" name="qs_tile_height" id="0x7f010003" />
+    <public type="dimen" name="qs_tile_stroke" id="0x7f010004" />
+    <public type="dimen" name="rounded_slider_background_rounded_corner" id="0x7f010005" />
+    <public type="dimen" name="rounded_slider_corner_radius" id="0x7f010006" />
+    <public type="dimen" name="rounded_slider_height" id="0x7f010007" />
+    <public type="dimen" name="slider_progress_height" id="0x7f010008" />
+    <public type="drawable" name="bg_qs_brightness_auto_off" id="0x7f020000" />
+    <public type="drawable" name="bg_qs_brightness_auto_on" id="0x7f020001" />
+    <public type="drawable" name="brightness_progress_drawable" id="0x7f020002" />
+    <public type="drawable" name="brightness_progress_full_drawable" id="0x7f020003" />
+    <public type="drawable" name="color_accent_alpha" id="0x7f020004" />
+    <public type="drawable" name="ic_brightness_full" id="0x7f020005" />
+    <public type="drawable" name="ic_brightness_low" id="0x7f020006" />
+    <public type="drawable" name="ic_qs_brightness_auto_off_new" id="0x7f020007" />
+    <public type="drawable" name="ic_qs_brightness_auto_on_new" id="0x7f020008" />
+    <public type="drawable" name="notif_footer_btn_background" id="0x7f020009" />
+    <public type="drawable" name="notification_material_bg" id="0x7f02000a" />
+    <public type="drawable" name="qs_footer_action_circle" id="0x7f02000b" />
+    <public type="drawable" name="qs_footer_actions_background" id="0x7f02000c" />
+    <public type="drawable" name="qs_security_footer_background" id="0x7f02000d" />
+    <public type="drawable" name="qs_tile_background_shape" id="0x7f02000e" />
+    <public type="drawable" name="qs_tile_background_shape_a11" id="0x7f02000f" />
+    <public type="id" name="slider_foreground" id="0x7f030000" />
+</resources>
